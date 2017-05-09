@@ -1,5 +1,5 @@
 # Classes Project
-## This project is all about Classes project.
+## This project is all about Classes.
 
 *Default Structure for A Basic Project*
 
